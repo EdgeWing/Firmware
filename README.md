@@ -41,4 +41,3 @@ This repository contains code supporting these boards:
 
 NSH usage documentation:
 http://px4.io/users/serial_connection
-Test
